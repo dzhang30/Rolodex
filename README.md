@@ -46,7 +46,7 @@ output: <br />
   &nbsp;&nbsp;&nbsp;"phonenumber": "012-234-4567", <br />
   &nbsp;&nbsp;&nbsp;"zipcode": "60654" <br />
   &nbsp;&nbsp;}  <br />
-  &nbsp], <br />
+  &nbsp;], <br />
   &nbsp;"errors": [ <br />
   &nbsp;1, <br />
   &nbsp;3, <br />
