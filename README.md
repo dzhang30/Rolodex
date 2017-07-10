@@ -48,10 +48,10 @@ output: <br />
   &nbsp;&nbsp;}  <br />
   &nbsp;], <br />
   &nbsp;"errors": [ <br />
-  &nbsp;1, <br />
-  &nbsp;3, <br />
-  &nbsp;4 <br />
-  &nbsp;] <br />
+  &nbsp;&nbsp;1, <br />
+  &nbsp;&nbsp;3, <br />
+  &nbsp;&nbsp;4 <br />
+  &nbsp;&nbsp;] <br />
 } <br />
 
 ## How to Use
