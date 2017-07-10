@@ -22,37 +22,37 @@ The “entries” list will be sorted in ascending alphabetical order by (last n
 
 # Sample
 
-input:
-Daniel T., Zhang, 61820, 373 111 2345, grey
-Derrick, Rose, (633)-777-9999, pink, 413245312
-John Doe, space grey, 60654, 012 234 4567
-kfhalksdhfkahds
-54345 3454
+input: <br />
+Daniel T., Zhang, 61820, 373 111 2345, grey <br />
+Derrick, Rose, (633)-777-9999, pink, 413245312 <br />
+John Doe, space grey, 60654, 012 234 4567 <br />
+kfhalksdhfkahds <br />
+54345 3454 <br />
 
-output:
-{
-  "entries": [
-    {
-      "color": "yellow",
-      "firstname": "Daniel T.",
-      "lastname": "Zhang",
-      "phonenumber": "373-111-2345",
-      "zipcode": "61820"
-    }, 
-    {
-      "color": "space grey",
-      "firstname": "John",
-      "lastname": "Doe",
-      "phonenumber": "012-234-4567",
-      "zipcode": "60654"
-    } 
-  ],
-  "errors": [
-    1,
-    3,
-    4
-  ]
-}
+output: <br />
+{ <br />
+  "entries": [ <br />
+    { <br />
+      "color": "yellow", <br />
+      "firstname": "Daniel T.", <br />
+      "lastname": "Zhang", <br />
+      "phonenumber": "373-111-2345", <br />
+      "zipcode": "61820" <br />
+    }, <br />
+    { <br />
+      "color": "space grey", <br />
+      "firstname": "John", <br />
+      "lastname": "Doe", <br />
+      "phonenumber": "012-234-4567", <br />
+      "zipcode": "60654" <br />
+    }  <br />
+  ], <br />
+  "errors": [ <br />
+    1, <br />
+    3, <br />
+    4 <br />
+  ] <br />
+} <br />
 
 ## How to Use
 1. Have Python 2.7.x installed or activate the virtualenv (```source venv/bin/activate```)
