@@ -7,9 +7,9 @@ An application that takes entries of personal information in multiple formats an
 The program will be read an input file (/data/data.in) of n lines. Each line should consist of “entry” information that includes first name, last name, a USA-style phone number, color, and a 5-digit ZIP code.
 
 These are the three different acceptable entry/line input formats: <br />
-Lastname, Firstname, (703)-742-0996, Blue, 10013
-Firstname Lastname, Red, 11237, 703 955 0373
-Firstname, Lastname, 10013, 646 111 0101, Green
+Lastname, Firstname, (703)-742-0996, Blue, 10013 <br />
+Firstname Lastname, Red, 11237, 703 955 0373 <br />
+Firstname, Lastname, 10013, 646 111 0101, Green 
 
 Some of these input lines might not follow the above formats and should not be normalized or interfere with the normalization of subsequent valid entries. An entry is invalid if its phone number doesn't contain 10 digits, the ZIP code doesn't contain 5 digits, or the firstname/lastname do not conform to the above formats. 
 
