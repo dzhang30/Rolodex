@@ -1,6 +1,6 @@
 # Rolodex
 
-An application that takes entries of personal information in multiple formats and normalizes each entry into a standard JSON format.
+An application that takes entries of personal information in multiple formats and normalizes each entry into a standard JSON format. Input file: /data/data.in Output file: /data/result.out
 
 # Input
 
