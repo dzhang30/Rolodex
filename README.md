@@ -4,7 +4,7 @@ An application that takes entries of personal information in multiple formats an
 
 # Input
 
-The program will be read an input file (/data/data.in) of n lines. Each line should consist of “entry” information that includes first name, last name, a USA-style phone number, color, and a 5-digit ZIP code.
+The program will read an input file (/data/data.in) of n lines. Each line should consist of “entry” information that includes first name, last name, a USA-style phone number, color, and a 5-digit ZIP code.
 
 These are the three different acceptable entry/line input formats: <br />
 Lastname, Firstname, (333)-222-1234, Black, 60647 <br />
